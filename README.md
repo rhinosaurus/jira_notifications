@@ -33,3 +33,10 @@ Below are the directions for installation:
 In regards to the frequency setting, this number is how often the extension will call the jira for updates.
 Example:
 If your frequency is set to 10 minutes and the time is currently 9:50AM, jira will be called at 9:50AM and request data for the past 10 minutes (9:40AM - 9:50AM). Once data is collect it will then run again at 10:00AM and so on.
+
+Future Features
+---------------
+
+* Better handling of time returns (eg: display as 5m ago)
+* Select which notifications to see
+* Bulking of notifications
