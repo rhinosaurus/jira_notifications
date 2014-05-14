@@ -18,6 +18,8 @@ One thing you will notice if you view the permissions for this extension is that
 
 This sounds alarming which is understandable, but the extension does not collect data. These permissions are due to our need to access _any_ instance of jira that you specify.
 
+In terms of the options specified, these are local to your machine only. The only thing to be aware of is that your username and password are sent in an authorization header base64 encoded.
+
 Installation
 ------------
 
