@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-	<app appid='ccliookadjofljocgobjbcdjojekjhmp'>
-		<updatecheck codebase='http://testy.sevone.com/j/jira_notifications.crx' version='0.2.2' />
-	</app>
-</gupdate>
