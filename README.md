@@ -24,11 +24,11 @@ Installation
 ------------
 
 Below are the directions for installation:
-* Download jira_notifications.crx from this page
-* Open the folder containing jira_notifications.crx
+* Download jinotify.crx from this page
+* Open the folder containing jinotify.crx
 * In chrome, go to the url chrome://extensions
-* Drag jira_notifications.crx from the folder into the chrome://extensions page
-* Once installed, launch the options page which you can find under the jira notifications plugin section on the extensions page
+* Drag jinotify.crx from the folder into the chrome://extensions page
+* Once installed, launch the options page which you can find under the jinotify plugin section on the extensions page
 * In the options page you will need to specify the server, username, password, and frequency of which to grab updates
 * After saving the options you should start seeing notifications 1 minute later (assuming there have been updates within your frequency period)
 
