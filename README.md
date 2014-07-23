@@ -1,7 +1,7 @@
 Jira Notifications Chrome Extension
 ===================================
 
-This chrome extension will allow you to show jira notifications on your desktop.
+This chrome extension will allow you to show jira notifications on your toolbar or desktop.
 
 Requirements
 ------------
@@ -41,4 +41,4 @@ Future Features
 
 * Better handling of time returns (eg: display as 5m ago)
 * Select which notifications to see
-* Bulking of notifications
+* -Bulking of notifications-
